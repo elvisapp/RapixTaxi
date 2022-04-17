@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477755218191",
+    "project_id": "rapi-taxi-venezuela",
+    "storage_bucket": "rapi-taxi-venezuela.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477755218191:android:dc41357b41327179fcc67a",
+        "android_client_info": {
+          "package_name": "elvi.com.rapixtaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477755218191-937c0lsnabeut1eh6c58puv4t6gpa7f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elvi.com.rapixtaxi",
+            "certificate_hash": "724733b929a66e184fe1ac94de8a3418f8859eae"
+          }
+        },
+        {
+          "client_id": "477755218191-vuemgi2jn32cbbvod3phga1qhkkg70su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfq3VnSv_GCAQndAWjwLh5zU0IzZHirLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477755218191-vuemgi2jn32cbbvod3phga1qhkkg70su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
