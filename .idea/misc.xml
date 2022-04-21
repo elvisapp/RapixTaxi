@@ -9,11 +9,13 @@
         <entry key="app/src/main/res/layout/action_bar_toollbar.xml" value="0.2898148148148148" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.346875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/activity_map_client.xml" value="0.2898148148148148" />
-        <entry key="app/src/main/res/layout/activity_map_driver.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_map_client.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_map_driver.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.26198083067092653" />
         <entry key="app/src/main/res/layout/activity_register_driver.xml" value="0.2898148148148148" />
         <entry key="app/src/main/res/layout/activity_select_option_auth.xml" value="0.2898148148148148" />
+        <entry key="app/src/main/res/menu/client_menu.xml" value="0.2898148148148148" />
+        <entry key="app/src/main/res/menu/driver_menu.xml" value="0.2898148148148148" />
       </map>
     </option>
   </component>
