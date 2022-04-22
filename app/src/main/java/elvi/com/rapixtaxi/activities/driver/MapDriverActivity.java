@@ -114,8 +114,12 @@ public class MapDriverActivity extends AppCompatActivity implements OnMapReadyCa
                  if (ContextCompat.checkSelfPermission( this, Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
                      mFusedLocation.requestLocationUpdates(mLocationRequest, mLocationCallback, Looper.myLooper());
                  }
-
-
+                 else {
+                     checkLocationPermissions();
+                 }
+             }
+             else {
+                 checkLocationPermissions();
              }
         }
 

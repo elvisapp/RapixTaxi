@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "477755218191",
+    "firebase_url": "https://rapi-taxi-venezuela-default-rtdb.firebaseio.com",
     "project_id": "rapi-taxi-venezuela",
     "storage_bucket": "rapi-taxi-venezuela.appspot.com"
   },
@@ -14,7 +15,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "477755218191-937c0lsnabeut1eh6c58puv4t6gpa7f1.apps.googleusercontent.com",
+          "client_id": "477755218191-n4j7m8qqr0vrbml60cptc0lhbadd5dk1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "elvi.com.rapixtaxi",
